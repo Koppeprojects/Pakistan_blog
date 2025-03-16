@@ -1,6 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Koppeprojects/Pakistan_blog/HEAD?urlpath=%2Fdoc%2Ftree%2FPakistan_Blog.py)
+Um den Pakistan Blog anzuschauen:
+- Klicke erst auf [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Koppeprojects/Pakistan_blog/HEAD?urlpath=%2Fdoc%2Ftree%2FPakistan_Blog.py)
+- warte bis der server 
 
-<img src="https://panel.holoviz.org/_static/logo.svg" alt="Panel" width="100" style="vertical-align: middle;"> is an awesome Python dashboarding library!
+<img src="https://panel.holoviz.org/_static/logo.svg" alt="Panel" width="25" style="vertical-align: middle;"> is an awesome Python dashboarding library!
 
 
 https://panel.holoviz.org/_static/logo.svg
