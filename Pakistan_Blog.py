@@ -76,7 +76,8 @@ pn.extension(
 
 #----------------------------------------------------------
 
-m = folium.Map(location=[30.70, 73.05], zoom_start=6)
+m = folium.Map(location=[30.70, 73.05], zoom_start=6,attr="<a href=https://api.maptiler.com//>maptiler</a>",tiles="https://api.maptiler.com/maps/basic-v2/{z}/{x}/{y}.png?key=tlMO9QKlWXNxmYv2hETr")
+
 #folium.Marker([64.03947, -22.69782], popup="<i>1.Tag Sandgerði</i>", tooltip="Click me!").add_to(m)
 
 
