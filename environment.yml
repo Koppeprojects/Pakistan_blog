@@ -5,4 +5,6 @@ channels:
 
 dependencies:
   - panel
+  -folium
+  -ipyleaflet
   - python=3.9
