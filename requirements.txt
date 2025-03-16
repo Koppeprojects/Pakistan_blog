@@ -1,7 +1,7 @@
+panel
 numpy
 ipympl
 requests
-panel
 folium
 ipyleaflet
 collections 
