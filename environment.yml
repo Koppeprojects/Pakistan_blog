@@ -1,2 +1,8 @@
+name: mypanelapp
 channels:
-- pyviz
+  - conda-forge
+  - pyviz
+
+dependencies:
+  - panel
+  - python=3.9
