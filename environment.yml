@@ -1,5 +1,0 @@
-channels:
-- pyviz
-
-packages:
-- jupyter-panel-proxy
