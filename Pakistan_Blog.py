@@ -83,7 +83,8 @@ m = folium.Map(location=[30.70, 73.05], zoom_start=6,attr="<a href=https://api.m
 
 color_code={"site_color": "green",
         "uni_color": "blue",
-        "hotel_color": "red"}
+        "hotel_color": "red",
+        "rest_color": "black"}
 
 # Dictionary to store markers by day
 days = defaultdict(lambda: None)
