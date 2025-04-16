@@ -1,8 +1,8 @@
-Day 0, 25.15553, 51.33537, Doha International Airport, site_color
-Day 0, 50.02150, 8.33390, Frankfurt Airport, site_color
-Day 0, 48.47015, 9.10557, Stuttgart Hauptbahnhof, site_color
-Day 1, 33.55610, 72.83369, Islamabad International Airport, site_color
-Day 1, 33.41118, 72.59411, Smart Lodge Islamabad, hotel_color
-Day 1, 33.41118, 72.59411, Chaaye Khana F-11 Markaz, rest_color
-Day 1, 33.68663, 73.00606, Tandoori Restaurant F10 Islamabad, rest_color
+Day 0, 25.15553, 51.33537, Doha International Airport,site_color
+Day 0, 50.02150, 8.33390, Frankfurt Airport,site_color
+Day 0, 48.47015, 9.10557, Stuttgart Hauptbahnhof,site_color
+Day 1, 33.55610, 72.83369, Islamabad International Airport,site_color
+Day 1, 33.41118, 72.59411, Smart Lodge Islamabad,hotel_color
+Day 1, 33.41118, 72.59411, Chaaye Khana F-11 Markaz,rest_color
+Day 1, 33.68663, 73.00606, Tandoori Restaurant F10 Islamabad,rest_color
 
