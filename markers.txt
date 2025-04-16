@@ -1,4 +1,7 @@
-Day 1,30.03947,72.69782,Campingplatz Sandgerði,site_color
-Day 1,30.04456,72.70011,Another Location,uni_color
-Day 2,30.05000,72.71000,Some Place,hotel_color
-Day 2,30.06000,72.72000,Another Spot,uni_color
+Day 0, 25.15553, 51.33537, Doha International Airport, site_color
+Day 0, 50.02150, 8.33390, Frankfurt Airport, site_color
+Day 0, 48.47015, 9.10557, Stuttgart Hauptbahnhof, site_color
+Day 1, 33.55610, 72.83369, Islamabad International Airport, site_color
+Day 1, 33.41118, 72.59411, Smart Lodge Islamabad, hotel_color
+Day 1, 33.41118, 72.59411, Chaaye Khana F-11 Markaz, rest_color
+
