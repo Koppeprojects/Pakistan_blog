@@ -111,4 +111,4 @@ Wetterbeschreibung: Sonnig .
 
 max. Temperatur: 42&deg;C 
 
-Bisher gesehene deutsche Autos: 9.5 Stück
+Bisher gesehene deutsche Autos: 10.5 Stück
