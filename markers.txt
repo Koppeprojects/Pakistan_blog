@@ -5,10 +5,10 @@ Day 1, 33.55610, 72.83369, Islamabad International Airport,site_color
 Day 1, 33.41118, 72.59411, Smart Lodge Islamabad,hotel_color
 Day 1, 33.41118, 72.59411, Chaaye Khana F-11 Markaz,rest_color
 Day 1, 33.68663, 73.00606, Tandoori Restaurant F10 Islamabad,rest_color
-Day 3, 33.61240, 73.05385, Siddique Halwa Puri shop,rest_color
-Day 3, 34.02913, 73.40592, Ayubia Motto Tunnel,site_color
-Day 3, 34.06779, 73.39289, Afaq Restaurant,rest_color
-Day 3, 34.09713, 73.49755, Kohala Picnic Point Pakistan,site_color
-Day 3, 33.90762, 73.39344, Murree,site_color
+Day 4, 33.61240, 73.05385, Siddique Halwa Puri shop,rest_color
+Day 4, 34.02913, 73.40592, Ayubia Motto Tunnel,site_color
+Day 4, 34.06779, 73.39289, Afaq Restaurant,rest_color
+Day 4, 34.09713, 73.49755, Kohala Picnic Point Pakistan,site_color
+Day 4, 33.90762, 73.39344, Murree,site_color
 
 
